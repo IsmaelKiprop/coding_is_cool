@@ -18,6 +18,6 @@ Coding is what makes it possible for us to create computer softwares,Apps and we
 
  Being a coder lets you be very independent. Once you understand the basics, almost all of the tools you need to make something are free, and all of the information you need can be found in books or on the Web. Coding is also very empowering, because you can make your computer or phone do what you want to make your ideas come true. 
  
- <a href="https://www.scholastic.co.uk/blog/Top-5-Reasons-Why-Coding-is-Awesome-30485" target="self" tittle="Top-5-Reasons-Why-Coding-is-Awesome">Top-5-Reasons-Why-Coding-is-Awesome </a>
+ <a href="https://www.scholastic.co.uk/blog/Top-5-Reasons-Why-Coding-is-Awesome-30485" target="self" title="Top-5-Reasons-Why-Coding-is-Awesome">Top-5-Reasons-Why-Coding-is-Awesome </a>
  
   </body>
